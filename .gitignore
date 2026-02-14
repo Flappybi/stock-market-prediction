@@ -1,4 +1,4 @@
-./daily/*.*
-./hourly/*
-./minutes/*
-./DaftarSaham.csv
+daily/
+hourly/
+minutes/
+DaftarSaham.csv
